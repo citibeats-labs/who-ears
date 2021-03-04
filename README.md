@@ -1,6 +1,6 @@
-# WHO Infodemic data
+# WHO Early AI-supported Response with Social Listening data
 
-The WHO Social Listening Infodemic Platform shows real-time information about how people are talking about COVID-19 online, so we can better manage as the infodemic and pandemic evolve.
+The WHO Early AI-supported Response with Social Listening Platform shows real-time information about how people are talking about COVID-19 online, so we can better manage as the infodemic and pandemic evolve.
 
 More information about the initiative and an exploration of the data can be found at [WHOinfodemic.citibeats.com](http://whoinfodemic.citibeats.com/).
 
@@ -12,11 +12,11 @@ The platform is powered by Citibeats, a text analytics platform specialized in s
 
 Listening to people&#39;s questions and concerns is an important way for health authorities to learn about what matters to communities in response to COVID-19. This social listening platform aims to show real-time information about how people are talking about COVID-19 online, so we can better manage as the COVID-19 infodemic and pandemic evolve.
 
-While the Social Listening Infodemic Platform website facilitates ready made visualizations for easy exploration of the data, the aggregated and anonymized data is made available for anyone wishing to integrate the data into their own research, or integrate the data into their existing workflows.
+While the Early AI-supported Response with Social Listening Platform website facilitates ready made visualizations for easy exploration of the data, the aggregated and anonymized data is made available for anyone wishing to integrate the data into their own research, or integrate the data into their existing workflows.
 
 This is available via the public API as well as this GitHub repository.
 
-Any use of the data should use the citation &#39;World Health Organization, Social Listening Infodemic Platform&#39;.
+Any use of the data should use the citation &#39;World Health Organization, Early AI-supported Response with Social Listening&#39;.
 
 We welcome you sharing with us [how you are using the data](http://whoinfodemic.citibeats.com/share-use-case), as well as feedback on how to [improve the platform for your needs](https://whoinfodemic.citibeats.com/feedback).
 
@@ -181,7 +181,7 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
         </tr>
         <tr>
             <td><b>Personal measures</b></td>
-            <td>Individual protection measures recommended by governments/OMS such as wearing masks, handwashing, social distance, isolation when ill...</td>
+            <td>Individual protection measures recommended by governments/WHO such as wearing masks, handwashing, social distance, isolation when ill...</td>
         </tr>
         <tr>
             <td><b>Measures in public settings</b></td>
@@ -189,7 +189,7 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
         </tr>
         <tr>
             <td><b>Travel measures</b></td>
-            <td>Measures implemented or suggested by governments/OMS/population/private companies on travel: immunity passports, negative PCR or negative rapid test to enter a country, mandatory quarantine</td>
+            <td>Measures implemented or suggested by governments/WHO/population/private companies on travel: immunity passports, negative PCR or negative rapid test to enter a country, mandatory quarantine</td>
         </tr>
         <tr>
             <td><b>Reduction of movement</b></td>
