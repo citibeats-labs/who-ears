@@ -70,15 +70,15 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
                 <p><em>How did the virus emerge and how is it spreading?</em></p>
             </td>
             <td><b>The cause of the virus</b></td>
-            <td>Where do people think it comes from: lab derived, wild animal markets, animals, place where the virus comes from, imported food, etc.</td>
+            <td>Narratives about the origin of SARS-CoV-2.</td>
         </tr>
         <tr>
             <td><b>Stigma about the spread</b></td>
-            <td>Stigma on people who are thought of spreading the virus: racist expressions, attribution to poor people or immigrants,</td>
+            <td>Stigma on people who are thought of spreading the virus: racist expressions, attribution to poor people or immigrants.</td>
         </tr>
         <tr>
             <td><b>Stigma about or by infected people</b></td>
-            <td>Stigma expressed about or by infected people or have been infected</td>
+            <td>Stigma expressed about or by infected people or have been infected.</td>
         </tr>
         <tr>
             <td rowspan="9">
@@ -86,32 +86,32 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
                 <p>What are the symptoms and how is it transmitted?</p>
             </td>
             <td><b>Confirmed symptoms</b></td>
-            <td>Confirmed symptoms as defined by WHO, including long-term symptoms</td>
+            <td>Confirmed symptoms as defined by WHO, excluding longer-term symptoms.</td>
         </tr>
         <tr>
             <td><b>Other discussed symptoms</b></td>
-            <td>Other discussed symptoms that have not yet been confirmed by WHO</td>
+            <td>Other discussed symptoms that have not yet been confirmed by WHO.</td>
         </tr>
         <tr>
-            <td><b>Asymptomatic transmission</b></td>
-            <td>Comments on transmission from asymptomatic people, about asymptomatic people, or personal experience of asymptomatic people</td>
-        </tr>
-        <tr>
-            <td><b>Pre-symptomatic transmission</b></td>
-            <td>Comments on transmission from pre-symptomatic people, about pre-symptomatic people, or personal experience of pre-symptomatic people</td>
+            <td><b>Prolonged symptoms</b></td>
+            <td>Reports on long covid that may or may not be confirmed by WHO.</td>
         </tr>
         <tr>
             <td><b>Modes of transmission</b></td>
-            <td>Modes of transmission confirmed and unconfirmed by WHO</td>
-        </tr>
-        <tr>
-            <td><b>Protection from transmission</b></td>
-            <td>Actions that individuals take to protect themselves – discussion of recommended or also other types of actions that individuals should take to protect themselves</td>
+            <td>Modes of transmission confirmed and unconfirmed by WHO. This includes discussion of asymptomatic and pre-symptomatic transmission as well as possible ways the virus can be transmitted (for example, aerosols and fomites).</td>
         </tr>
         <tr>
             <td><b>Transmission settings</b></td>
-            <td>Narratives about settings where transmission can be amplified: closed and semi-closed settings</td>
+            <td>Narratives about settings where transmission can be amplified: closed and semi-closed settings.</td>
         </tr>
+        <tr>
+            <td><b>Immunity</b></td>
+            <td>General conversations on re-infection, confusion over immunity after infection or the possibility of being infected more than once.</td>
+        </tr>
+        <tr>
+            <td><b>COVID 19 Variants</b></td>
+            <td>Narratives and concerns about about the development, spread and impact of new COVID 19 Variants.</td>
+        </tr> 
         <tr>
             <td><b>Demographic vulnerability & risks</b></td>
             <td>
@@ -128,7 +128,7 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
             <td>Anxiety, depression and other affections derived from the pandemic situation</td>
         </tr>
         <tr>
-            <td rowspan="7">
+            <td rowspan="8">
                 <p><b>The treatment</b></p>
                 <p>How can it be treated or cured?</p>
             </td>
@@ -137,7 +137,7 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
         </tr>
         <tr>
             <td><b>COVID-19 vaccine</b></td>
-            <td>Narratives about the vaccine itself (side effects, safety, etc)</td>
+            <td>Narratives about the vaccine itself: efficacy, side effects, safety, etc.</td>
         </tr>
         <tr>
             <td><b>Health care workers (HCW) and vaccine</b></td>
@@ -152,6 +152,10 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
             <td>Comments on new treatment and vaccines from research and development and evidence and scientific processes</td>
         </tr>
         <tr>
+            <td><b>Science and R&D</b></td>
+            <td>Comments on new treatment and vaccines from research and development and evidence and scientific processes</td>
+        </tr>
+        <tr>
             <td><b>Non proven treatments</b></td>
             <td>Discussion about treatments that are not proven to be effective (examples: sunlight, nutrition, herbal remedies, etc)</td>
         </tr>
@@ -160,7 +164,7 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
             <td>Specific myths that WHO and partners have reacted to taken steps to debunk reference</td>
         </tr>
         <tr>
-            <td rowspan="18">
+            <td rowspan="19">
                 <p><b>The interventions</b></p>
                 <p>What is being done by government and health authorities and societal institutions?</p>
             </td>
@@ -192,22 +196,24 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
             <td>Measures implemented or suggested by governments/WHO/population/private companies on travel: immunity passports, negative PCR or negative rapid test to enter a country, mandatory quarantine</td>
         </tr>
         <tr>
+            <td><b>Immunity pass</b></td>
+            <td>Vaccine certificates, immunity / health passports, digital and hard copy, including implications for access to businesses, schools, and other services.</td>
+        </tr>
+        <tr>
             <td><b>Reduction of movement</b></td>
             <td>Measures implemented by governments related to movement reduction: lock-down at home, territory lock-down, etc.</td>
         </tr>
         <tr>
             <td><b>Protection: medical equipment</b></td>
-            <td>Equipment for health workers</td>
+            <td>Equipment for health workers: PPE advances and accessibility for public.</td>
         </tr>
         <tr>
             <td><b>Health Technology</b></td>
-            <td>Health technology used to treat patients: <span style="color: #333333; background: white;">medicines, medical devices, vaccines, procedures and systems </span></td>
+            <td>Health technology used to treat patients: medicines, medical devices, vaccines, procedures and systems</td>
         </tr>
         <tr>
             <td><b>Digital health technology</b></td>
-            <td>
-                Discussions about digital technology used to respond to pandemic: electronic data exchange, electronic notices of passenger lists to health authorities, biometric data coming from wearables, proximity apps (App Covid). Includes people’s attitudes to data privacy, or for modelling and predictive analytics.
-            </td>
+            <td>Discussions about digital technology used to respond to pandemic: electronic data exchange, electronic notices of passenger lists to health authorities, biometric data coming from wearables, proximity apps (App Covid). Includes people’s attitudes to data privacy, or for modelling and predictive analytics.</td>
         </tr>
         <tr>
             <td><b>Pandemic Fatigue</b></td>
@@ -226,7 +232,7 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
             <td>Narratives about the environment and COVID-19 – some examples: shading in environment, waste water, air pollution as a secondary byproduct of lockdowns</td>
         </tr>
         <tr>
-            <td><b>Inequalities</b></td>
+            <td><b>Inequalities & Human Rights</b></td>
             <td>Narratives about social inequalities and relation to COVID-19</td>
         </tr>
         <tr>
@@ -260,6 +266,19 @@ NOTE: each row in the CSV corresponds to one day of data for a specific country.
     </tbody>
 </table>
 
+
+## Updates in the taxonomy of categories
+
+### May 2021
+- New category “Variants” added
+- Added keywords in boolean query for Twitter and web comments with variant and vaccine-related keywords. 
+
+### August 2021
+- Added new categories: Prolonged symptoms, Immunity, Immunity Pass, 
+- Merged the following categories:
+  - Modes of Transmission, Asymptomatic transmission and pre-symptomatic transmission.
+- Expanded the scope of the following category:
+  - Inequalities to include Human Rights
 
 ## Contact
 
